@@ -1,4 +1,4 @@
 ---
 title: "Joe's Mexican Cuisine"
-layout: post
+layout: blog
 ---
