@@ -1,5 +1,5 @@
 ---
 title: "Joe's Mexican Cuisine"
-layout: "blog"
+layout: post
 ---
 HI there my name is john
