@@ -13,4 +13,4 @@ incorrect usage of visual hierarchy. The largest text that you see is just a bun
 And probably the biggest problem is the way these numbers are presented, they literally have no meaning (what do these numbers even mean? are they percentages?). A minor mistake a lack of hover effect or any indication that you can click on these things. So when you do
 click on these classes, it does show you all the assignments and the points that you got on them, but it does not show you the grade. In other words, you have to manually calculate your grade which is a terrible UX decision when the entire point of your website
 is to show grades.
-![Bad UX](https://i.ibb.co/93mc9Wd/CASESTUDY-PHOTO-4.png)
+![Bad UX](https://ibb.co/jvfsPdT][img]https://i.ibb.co/pvw5Bgx/CASESTUDY-PHOTO-4.png)
