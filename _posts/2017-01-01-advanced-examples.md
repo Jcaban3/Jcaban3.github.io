@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://i.ibb.co/z88v0ZF/a2b719264609b2db040042d92ec44172.png)
+![Swiss Alps](https://i.ibb.co/pvw5Bgx/CASESTUDY-PHOTO-4.png)
 
 
 ## MathJax
