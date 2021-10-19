@@ -1,5 +1,5 @@
 ---
-title: "Case 1: YOUR ARE DUMB"
+title: "Case 1: Blackboard Redesign"
 layout: post
 ---
 
