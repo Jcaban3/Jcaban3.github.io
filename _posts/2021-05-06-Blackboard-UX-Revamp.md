@@ -13,6 +13,7 @@ In order to find the grades you need to click on a tiny link in the left hand pa
 
 This navigation menu has some UI and UX mistakes. First off, there is an
 incorrect usage of visual hierarchy. The largest text that you see is just a bunch of random numbers. Below it, you can see the classes in italics for some reason and there is also very little contrast between the background and the actual text.
+
 ![Bad UX](https://i.ibb.co/pvw5Bgx/CASESTUDY-PHOTO-4.png)
 
 The biggest problem is the way these numbers are presented. They don't have any meaning. A minor mistake a lack of hover effect or any indication that you can click on these things. This confuses the user and makes them wonder what these objects are. So when you do
