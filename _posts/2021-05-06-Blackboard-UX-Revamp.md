@@ -9,6 +9,7 @@ Background: I am currently a student enrolled in college. My university uses a w
 Problem: The biggest problem with Blackboard is how difficult it is to find important information. Blackboard is a website that is supposed to be used for education and should be displaying things like grades, assignments, announcements, documents (These are the most important things). However, Blackboard as a website makes it difficult to do this. For example, one of the most important things
 people want to see on Blackboard is grades. However it is incredibly hard to find them. In fact you can't even find it by clicking on the class (as this just shows announcements, a feature most teachers don't even use)
 In order to find the grades you need to click on a tiny link in the left hand part of the screen which takes you to another screen that looks entirely different. 
+
 ![Opening Screen](https://i.ibb.co/BZfD0Yc/CASESTUDY-PHOTO-1.png)
 
 This navigation menu has some UI and UX mistakes. First off, there is an
