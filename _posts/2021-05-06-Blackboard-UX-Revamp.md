@@ -31,5 +31,8 @@ My process checklist
 4.5. Make the course selection one screen and the grades the next screen
 5. Encourage students to perform better in school (by using nudges)
 
-Process: First off, I changed the background color of the next screen to white. I wanted to make this screen look more similar to the one before in order to avoid confusion. It also creates more contrast and makes everything i'm about to add much easier to see
+Process: First off, I changed the background color of the next screen to white. I wanted to make this screen look more similar to the one before in order to avoid confusion. It also creates more contrast and makes everything i'm about to add much easier to see. 
 
+![improvement](https://ibb.co/VgVbjRb"><img src="https://i.ibb.co/F56cx2c/Desktop-9.png)
+
+I also decided to make a view details button in order to for the user to be able to see what they are able to click
